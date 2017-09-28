@@ -8,16 +8,16 @@ Myex is a MATLAB interface for the Tobii EyeX eye-tracker. It allows MATLAB user
 2. Run MinimalWorkingExample_v1.m in MATLAB
 
 ### System Requirements
-Operating system:
+**Operating system:**
 Myex is compatible with Windows 7 and Windows 10 (the only platforms supported by the EyeX eye-tracker).
 
-Programming language:
+**Programming language:**
 Myex is compatible with all known versions of MATLAB.
 
-Additional system requirements:
+**Additional system requirements:**
 Myex is designed to interface with the Tobii EyeX eye-tracker (Tobii Technology, Stockholm, Sweden), which requires a USB 3.0 connection.
 
-Dependencies:
+**Dependencies:**
 Myex requires is compatible with all versions of the Tobii EyeX Interaction Engine from v1.2.0 onwards (at the time of writing the latest version is v1.9.4). There are no MATLAB dependencies. However, users wishing to compile Myex from source may need to install an appropriate C/C++ compiler (run “mex -setup” from within MATLAB for more info.
 
 ### License
