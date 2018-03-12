@@ -22,6 +22,10 @@ myex requires is compatible with all versions of the Tobii EyeX Interaction Engi
 ### License
 GNU GPL v3.0
 
+### In case of difficulties
+Please post an issue on the GitHub repository, or contact the author directly at: petejonze@gmail.com
+
+
 ### Enjoy!
 @petejonze  
 28/09/2017
