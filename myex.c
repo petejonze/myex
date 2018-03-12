@@ -22,12 +22,14 @@
  * This code works, but has not been extensively debugged or tested, and could no doubt be improved. It is intended
  * as a proof-of-principle only.
  *
- * 	Commands are:
- *		eyex('connect')
- *		eyex('get')
- *		eyex('disconnect')
+ * Commands are:
+ *	eyex('connect')
+ *	eyex('get')
+ *	eyex('disconnect')
  *
- * Copyright 2015 Pete Jones <petejonze@gmail.com>
+ * License: GNU GPL v3.0 (see accompanying file: LICENSE.txt)
+ *
+ * Copyright 2018 Pete Jones <petejonze@gmail.com>
  */
 
 #include <Windows.h>
